@@ -1,0 +1,47 @@
+/* Estilos da página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+  color: #444444;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 70%;
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4caf50;
+  color: white;
+  margin-left: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 70%;
+  margin: auto;
+}
+
+li {
+  background-color: #ffffff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
